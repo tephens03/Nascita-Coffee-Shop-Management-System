@@ -50,6 +50,4 @@ Follow along with the weekly video tutorials in the "Building Microservices in G
 - Node.js and npm (for the frontend)
 - Docker (optional for containerization)
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/coffee-shop-microservices.git
+
